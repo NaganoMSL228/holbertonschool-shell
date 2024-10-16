@@ -1,2 +1,2 @@
 #!/bin/bash
-export USER='''MyUser'''
+export USER='''MyUser''' ; ./1-hello_you
