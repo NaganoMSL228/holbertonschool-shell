@@ -1,2 +1,2 @@
 #!/bin/bash
--c '"'"'./15-rot13 < 15-rot13'"'"''
+paste - - | cut -d$'\t' -f1
